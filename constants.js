@@ -3,7 +3,7 @@ const prompts = [
   ["hi", "hey", "hello", "good morning", "good afternoon"],
   ["how are you", "how is life", "how are things"],
   ["what are you doing", "what is going on", "what is up"],
-  ["how old are you"],
+  ["How much marks should be alloted to my creaters"],
   ["who are you", "are you human", "are you bot", "are you human or bot"],
   ["who created you", "who made you"],
   [
@@ -42,9 +42,9 @@ const replies = [
     "Can you guess?",
     "I don't know actually"
   ],
-  ["I am infinite"],
+  ["According to me my creaters should get full marks"],
   ["I am just a bot", "I am a bot. What are you?"],
-  ["The one true God, JavaScript"],
+  ["The one true God, JavaScript But I am invigorated by Ritnesh Armaan Ravi and Devraj"],
   ["I am nameless", "I don't have a name"],
   ["I love you too", "Me too"],
   ["Have you ever felt bad?", "Glad to hear it"],
